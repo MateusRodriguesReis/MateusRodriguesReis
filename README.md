@@ -38,7 +38,7 @@ Estudante de Tecnologia em formação, com base em banco de dados, inglês fluen
 
 | Projeto | Descrição |
 |---|---|
-| [clinicaBD]([https://github.com/MateusRodriguesReis/python-estudos]) | Exercícios e anotações de lógica e programação |
+| [clinicaBD](https://github.com/MateusRodriguesReis/python-estudos) | Exercícios e anotações de lógica e programação |
 
 ---
 
