@@ -38,9 +38,7 @@ Estudante de Tecnologia em formação, com base em banco de dados, inglês fluen
 
 | Projeto | Descrição |
 |---|---|
-| [python-estudos](https://github.com/MateusRodriguesReis/python-estudos) | Exercícios e anotações de lógica e programação |
-| [gerador-de-senhas](https://github.com/MateusRodriguesReis/gerador-de-senhas) | Script que gera senhas fortes via terminal |
-| [buscador-de-cep](https://github.com/MateusRodriguesReis/buscador-de-cep) | Consulta endereços pelo CEP usando a API ViaCEP |
+| [clinicaBD]([https://github.com/MateusRodriguesReis/python-estudos]) | Exercícios e anotações de lógica e programação |
 
 ---
 
