@@ -43,5 +43,8 @@ Estudante de Tecnologia em formação, com base em banco de dados, inglês fluen
 
 ## 📊 Estatísticas
 
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusRodriguesReis&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRodriguesReis&layout=compact&theme=default&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=MateusRodriguesReis&color=blue&style=flat)
+
+[![GitHub Contributions](https://ghchart.rshah.org/MateusRodriguesReis)](https://github.com/MateusRodriguesReis)
+
+[![Mateus's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusRodriguesReis&theme=default)](https://github.com/MateusRodriguesReis)
